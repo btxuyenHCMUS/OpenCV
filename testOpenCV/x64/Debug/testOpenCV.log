@@ -1,0 +1,8 @@
+﻿  test.cpp
+c:\users\administrator\documents\visual studio 2015\projects\testopencv\testopencv\edgedetector.h(48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\testopencv\testopencv\edgedetector.h(60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\testopencv\testopencv\edgedetector.h(67): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\testopencv\testopencv\edgedetector.h(72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\testopencv\testopencv\blur.h(90): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+  testOpenCV.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\testOpenCV\x64\Debug\testOpenCV.exe
+  testOpenCV.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\testOpenCV\x64\Debug\testOpenCV.pdb (Full PDB)

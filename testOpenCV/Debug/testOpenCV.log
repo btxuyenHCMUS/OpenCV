@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(638,5): error MSB6006: "link.exe" exited with code 1112.
+opencv_world341d.lib(opencv_world341d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
